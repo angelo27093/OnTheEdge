@@ -1,0 +1,105 @@
+			ON THE EDGE CHANGELOG : 
+---------------------------------------------------------------------------------
+--
+Changelog for V1.2
+- we see some code changed in 1APE9
+- Sbrowser Tab 			[FIXED]
+- SystemUI Stock		[FIXED]
+- Shealth			[FIXED]
+- Captiveportal 		[RE-ADDED]
+- Build.props 			[Reworked]
+-
+
+
+
+--
+Changelog For V1.1 
+
+- Rebased with the Official SMG935FXXU1APE9 from Samsung[May Security Patch]
+- Viper/Dolby Beats Edition Now a Option in Aroma	[ADDED] 
+- Fixes for some reports about SystemUI has stopped	[FIXED]
+
+
+--
+Changelog For v1 Hotfix 2
+
+-WIFI                                     [FIXED]
+
+
+
+
+
+--
+Changelog For v1 Hotfix
+
+-Systemui stock                           [FIXED]
+-systenui Rounded                         [FIXED]
+
+
+
+Changelog For v1 
+
+- Complete Deodexed Stock BASED FXXU1APE9 [May Security Patch]
+- 5-way-Reboot 			          [ADDED]
+- All Apps Multiwindows                   [ADDED]
+- More Stabilty 		          [Improved Some More]
+- More Debloated then Previous versions	  [Smallest Rom Yet]
+- Pincode Lockscreen Not the Same         [Better Security]
+- Touchwiz Easymode	             	  [FIXED]
+-
+--
+Changelog for Pre-Pre-Alpha v3.1 [HOTFIX]
+
+-Sound Alive			[FIXED]
+-Fast Touchwiz	 		[ADDED]
+
+--
+Changelog for Pre-Alpha v3
+
+
+-Complete Deodexed Stock base,BASED on Build FXXU1APDN [may security patch]
+-More stability			[Improved]
+-Debloated Some more stuff	[Smallest Rom]
+-Gallery permission fix		[FIXED]
+-Aroma				[FIXED]
+-Theme's			[FIXED]
+-Samsung browser Tab Fix	[FIXED]
+-UI icons 			[FIXED]
+-Google sync contacts		[FIXED]
+-Option to use google backup	[FIXED] 
+-Memo				[ADDED]
+-S Planner			[ADDED]
+-Samsung Account		[ADDED]
+-Samsung appstore		[ADDED]
+-VR support			[ADDED]
+-Music app			[ADDED]
+-Dutch language Support Aroma 	[ADDED]
+- Galaxy S7 & S7-Edge Support	[ADDED]
+-----------------------------------------------------------------------------------
+Changelog for Pre-Alpha v2 :
+
+- Complete Deodexed Stock base,BASED on Build G935FXXU1APDH[May Security Patch]
+- Edge Screen 			[FIXED]
+- Samsung browser 		[FIXED]
+- Samsung.Service FC 		[FIXED]
+- Fast charging 2.0 		[FIXED]
+- Numbers Scrambeld lockscreen	[FIXED]
+- Good lock 			[ADDED]
+- New CUSTOM Aroma Thema 	[NEW]
+- Dutch Lang Aroma installer 	[ADDED]
+- Samsung Gear,Splanner,Memo 	[ReADDED]
+- Build.prop Tweaks 		[Ram,Perf,Batt,Camera]
+
+---------------------------------------------------------------------------------
+
+Changelog for Pre-Alpha v1:
+
+- Complete Deodexed Stock base Rom 
+- Latest BusyBox v1.24.2
+- Xposed V84
+- Dual Speaker V16
+- Removed Sd card notification on boot
+- Rounded Notifications
+- Knox Related Files Removed
+- Build.prop Tweaks [Ram,Perf,Batt,Camera]
+---------------------------------------------------------------------------------

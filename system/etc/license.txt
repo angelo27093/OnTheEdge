@@ -1,0 +1,68 @@
+<@center><b><#selectbg_g>Apache License</#></b>
+Version 2.0, January 2004
+<u>http://www.apache.org/licenses/</u>
+
+<b><#selectbg_g>This is the DutchSquad License Agreement</#></b></@>
+
+<b><#selectbg_g>1. Definitions.</#></b>
+<@fill><q>
+(referred in the License Agreement as the “Team” and specifically including the ROMS & files, packaged Zips, and Beta files, if and when they are made available)
+Is licensed to you subject to the terms of the License Agreement.
+The License Agreement forms a legally binding contract between you and DutchSquad in relation to your use of there ROMS
+ "ROMS" means the software compatible for specifiek devices, as made available under the there respected names,as they get updated from time to time.
+“-compatible” means any Rom implemation that complies with the rom you installed for your device,which can be found at the designated place to download the software.
+Which may be updated from time to time; and successfully passes the DutchSquad Compatibility Test Phase.
+"DutchSquad" means DutchSquad LLC., a Dutch Team of developers at various places,working together to create the most stable,low-battery usage,perfomance fully featured roms.
+Accepting the License Agreement 
+In order to use the Rom,Software,and other files you must first agree to the License Agreement.
+You may not use it if you do not accept the License Agreement.
+By clicking the accept and/or using the Rom, you hereby agree to the terms of the License Agreement.
+You may not use the Rom and may not accept the License Agreement if you are a person barred from receiving the Romunder the laws of the Netherlands,
+Or other countries including the country in which you are resident or from which you use this Rom.
+If you will use the Rom internally within your company or organization you agree to be bound by the License Agreement on behalf of your employer or other entity,
+And you represent and warrant that you have full legal authority to bind your employer or such entity to the License Agreement.
+If you do not have the requisite authority, you may not accept the License Agreement or use the Rom on behalf of your employer or other entity.
+Nothing in the License Agreement gives you a right to use any of DutchSquad's trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+You agree that you will not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices)
+Use, reproduction and distribution of components licensed under an open source software license are governed solely by the terms of that open source software license and not the License Agreement.
+You agree to remain a licensee in good standing in regard to such open source software licenses under all the rights granted and to refrain from any actions that may terminate, suspend, or breach such rights.
+</q></@>
+
+<b><#selectbg_g>2. Grant of Copyright License.</#></b>
+<@fill><q>You may not use the Rom and may not accept the License Agreement if you are a person barred from receiving the Rom under the laws of the Netherlands,
+Or other countries including the country in which you are resident or from which you use this Rom.</q></@>
+
+<b><#selectbg_g>3. Grant of Patent License.</#></b>
+<@fill><q></q>If you will use the Rom internally within your company or organization you agree to be bound by the License Agreement on behalf of your employer or other entity,
+And you represent and warrant that you have full legal authority to bind your employer or such entity to the License Agreement.
+If you do not have the requisite authority, you may not accept the License Agreement or use the Rom on behalf of your employer or other entity</@>
+
+<b><#selectbg_g>4. Redistribution.</#></b>
+<@fill><q>Use, reproduction and distribution of components licensed under an open source software license are governed solely by the terms of that open source software license and not the License Agreement.
+You agree to remain a licensee in good standing in regard to such open source software licenses under all the rights granted and to refrain from any actions that may terminate, suspend, or breach such rights</*>
+
+</q></@>
+
+<b><#selectbg_g>5. Submission of Contributions.</#></b>
+<@fill><q>You agree that the form and nature of the roms that DutchSquad provides may change without prior notice to you and that future versions of the roms may be incompatible with applications developed on previous builds of the roms.
+You agree that DutchSquad may stop (permanently or temporarily) providing the rom (or any features within the rom } to you or to users generally at dutchsquad sole discretion,
+without prior notice to you.</q></@>
+
+<b><#selectbg_g>6. Trademarks.</#></b>
+<@fill><q>Nothing in the License Agreement gives you a right to use any of DutchSquad's trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+You agree that you will not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices).</q></@>
+
+<b><#selectbg_g>7. Disclaimer of Warranty.</#></b>
+<@fill><q>YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE ROM IS AT YOUR SOLE RISK AND THAT THE ROM IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND FROM DUTCHSQUAD
+YOUR USE OF THE ROM AND ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE ROM IS AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR SYSTEM OR OTHER DEVICES OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+WITHOUT LIMITING THE FOREGOING,YOU UNDERSTAND THAT THE ROM IS A STABLE RELEASE BUT MAY CONTAIN ERRORS,BUGS OR DEFECTS AND SECURITY VULNERABILITIES THAT CAN RESULT IN SIGNIFICANT DAMAGE. INCLUDING THE COMPLETE, IRRECOVERABLE LOSS OF USE OF YOUR DEVICE.</q></@>
+
+<b><#selectbg_g>8. Limitation of Liability.</#></b>
+<@fill><q>YOU EXPRESSLY UNDERSTAND AND AGREE THAT DUTCHSQUAD IS,ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT DUTCHSQUAD OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.</q></@>
+
+<b><#selectbg_g>9. Accepting Warranty or Additional Liability.</#></b>
+<@fill><q>DUTCHSQUAD FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+In order to use the Rom,Software,and other Files you must first agree to the License Agreement.
+You may not use it if you do not accept the License Agreement.</q></@>
+
+<@center><b><#selectbg_g>END OF TERMS AND CONDITIONS</#></b></@>
